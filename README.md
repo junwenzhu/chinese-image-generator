@@ -38,4 +38,9 @@
 ## 生成速度
 实测：阿里云16核服务器 可以设置160个进程，生成速度：每秒1500张
 
+# 参考资料
+https://github.com/Sanster/text_renderer
 
+https://github.com/Belval/TextRecognitionDataGenerator
+
+https://github.com/JarveeLee/SynthText_Chinese_version
