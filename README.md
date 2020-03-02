@@ -1,11 +1,11 @@
 # 效果展示
-https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000004.png
+![image](https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000004.png)
 
-https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000013.png
+![image](https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000013.png)
 
-https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000019.png
+![image](https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000019.png)
 
-https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000030.png
+![image](https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000030.png)
 
 
 # 功能
