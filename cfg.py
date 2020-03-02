@@ -60,9 +60,9 @@ font_size = 32  # 有可能生成的图像大于文字的像素
 # 像素向下浮动范围
 font_size_range = 4  # 最终文字像素在【char_pix-char_pix_range,char_pix】之间
 
-prob_bold = 0.05  # 加粗的概率
-prob_italic = 0.05  # 斜体的概率
-prob_underline = 0.05  # 下划线的概率
+prob_bold = 0.5  # 加粗的概率
+prob_italic = 0.5  # 斜体的概率
+prob_underline = 0.5  # 下划线的概率
 
 # 图像宽高的浮动，字会在其中游离
 w_range = 100
