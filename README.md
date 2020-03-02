@@ -7,6 +7,7 @@
 
 ![image](https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000030.png)
 
+![image](https://github.com/itmorn/chinese-image-generator/blob/master/demo_pic/00000154.png)
 
 # 功能
 ## 支持语言
